@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "img": "../Assets/177353_1664850422.webp",
+    "UpTxt": "Long Jack Xxxl -60 Capsules",
+    "new": "17000",
+    "old": "2000",
+    "percent": "50",
+    "save": "20000",
+    "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now "
+  },
+  {
+    "id": 2,
+    "img": "../Assets/175355_1634802110.webp",
+    "UpTxt": "Double Fibre Filled Mattress Top...",
+    "new": "21,000",
+    "old": "23,000",
+    "percent": "8",
+    "save": "2000",
+    "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now "
+  },
+  {
+    "id": 3,
+    "img": "../Assets/177353_1664850422.webp",
+    "UpTxt": "Konga Courier Bag - Large - Bund...",
+    "new": "2000",
+    "old": "2400",
+    "percent": "16",
+    "save": "400",
+    "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now "
+  },
+  {
+    "id": 4,
+    "img": "../Asset/169529_1604051771.webp",
+    "UpTxt": "Men's Sneaker - Green & Brown",
+    "new": "6,500",
+    "old": "2000",
+    "percent": "50",
+    "save": "20000",
+    "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now "
+  },
+  {
+    "id": 5,
+    "img": "../Asset/177353_1664850422.webp",
+    "UpTxt": "Double Fibre Filled Mattress Top...",
+    "new": "21,000",
+    "old": "23,000",
+    "percent": "8",
+    "save": "2000",
+    "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now "
+  },
+
+  {
+    "id": 6,
+    "img": "../Assets/175355_1634802110.webp",
+    "UpTxt": "HP Notebook Stream Pro 11",
+    "new": "2000",
+    "old": "2400",
+    "percent": "16",
+    "save": "400",
+    "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now "
+  }
+]
